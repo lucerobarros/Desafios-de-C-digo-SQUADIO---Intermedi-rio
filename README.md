@@ -1,1 +1,1 @@
-# Desafios-de-C-digo-SQUADIO---Intermedi-rio
+# Desafios-de-Codigo-SQUADIO---Intermediario
